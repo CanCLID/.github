@@ -10,3 +10,12 @@
 1. 習慣書寫粵文
 
 如果你識技術，尤其係 NLP 同網站開發（前端定全桟都得），噉就更加好嘞。請發郵件到 support@jyutping.org 或者加入 [Telegram 羣組](https://t.me/rime_cantonese)聯繫我哋。
+
+Our team's mission is to improve the infrastructures for the Cantonese language. This includes Jyutping IME, Cantonese corpus, Cantonese NLP tools, Cantonese learning and education tools development and so forth.
+
+We welcome anyone who is interested in promoting Cantonese to join us. We hope that our new members are capable of:
+
+1. Typing Cantonese in Jyutping 
+1. Writing written Cantonese
+
+Please email to support@jyutping.org or join the [Telegram group](https://t.me/rime_cantonese) to reach out to us.
