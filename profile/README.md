@@ -1,6 +1,7 @@
 # 粵語計算語言學基礎設施建設組 Cantonese Computational Linguistics Infrastructure Development Workgroup
 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    ](https://twitter.com/Can_CLID)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Can_CLID)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/commonvoice.yue/)
 
 我哋團隊致力於粵語基礎設施建設事業，包括但唔限於粵拼輸入法開發同推廣、粵拼推廣、粵語語料庫建設、粵語 NLP 工具開發、粵語學習工具開發。
 
