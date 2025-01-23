@@ -11,13 +11,13 @@
 1. 熟練掌握粵拼打字
 1. 習慣書寫粵文
 
-如果你識技術，尤其係 NLP 同網站開發（前端定全桟都得），噉就更加好嘞。請發郵件到 support@jyutping.org 或者加入 [Telegram 羣組](https://t.me/rime_cantonese)聯繫我哋。亦可以直接喺 https://github.com/orgs/CanCLID/discussions 向我哋提意見。
+如果你識技術，尤其係 NLP 同網站開發（前端定全桟都得），噉就更加好嘞。請發郵件到 support@jyutping.org 或者加入 [Telegram 羣組](https://t.me/rime_cantonese)聯繫我哋。亦可以直接喺 [GitHub Discussions](https://github.com/orgs/CanCLID/discussions) 向我哋提意見。
 
-Our team's mission is to improve the infrastructures for the Cantonese language. This includes Jyutping IME, Cantonese corpus, Cantonese NLP tools, Cantonese learning and education tools development and so forth.
+We are dedicated to enhancing the infrastructure for the Cantonese language. Our work spans a range of projects, including Jyutping Input Method Editors (IMEs), Cantonese text and speech corpora, Cantonese NLP tools, and educational resources for Cantonese learning.
 
-We welcome anyone who is interested in promoting Cantonese to join us. We hope that our new members are capable of:
+We welcome anyone passionate about promoting Cantonese to join our efforts. If you're interested, we hope you have the following skills:
 
 1. Typing Cantonese in Jyutping 
 1. Writing written Cantonese
 
-Please email to support@jyutping.org or join the [Telegram group](https://t.me/rime_cantonese) to reach out to us. You can also post at https://github.com/orgs/CanCLID/discussions to give us feedback.
+Feel free to reach out to us via email at support@jyutping.org, join our [Telegram group](https://t.me/rime_cantonese), or share your feedback on our [GitHub Discussions](https://github.com/orgs/CanCLID/discussions) page.
